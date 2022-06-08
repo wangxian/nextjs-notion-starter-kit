@@ -390,3 +390,6 @@
 .notion-aside .PageSocial_github___g2RK {
   display: none !important;
 }
+.notion-collection-header {
+  display: none;
+}
