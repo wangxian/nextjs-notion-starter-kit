@@ -19,7 +19,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '',
-  github: '',
+  github: 'wangxian',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -31,7 +31,7 @@ export default siteConfig({
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
@@ -53,6 +53,10 @@ export default siteConfig({
   // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
+    {
+      title: 'Shuo',
+      pageId: 'f38e058820a94bb488cb84384e9a0f60'
+    },
     {
       title: 'About',
       pageId: 'df405e7f32ce404bb669b8c93e722bb5'
