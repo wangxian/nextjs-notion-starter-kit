@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Shuo',
-      pageId: 'f38e058820a94bb488cb84384e9a0f60'
+      pageId: '449a5de2c22c425eabe48283fc02e7f3'
     },
     {
       title: 'About',
