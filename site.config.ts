@@ -15,7 +15,7 @@ export default siteConfig({
   author: '木頭',
 
   // open graph metadata (optional)
-  description: '一锅粥，使用 notion 创建的个人日常博客',
+  description: '一锅粥，基于 notion 个人日常博客',
 
   // social usernames (optional)
   twitter: '',
